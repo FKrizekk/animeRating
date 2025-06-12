@@ -6,6 +6,7 @@ A simple Windows cli app to help you rate your anime.
 
 Install [Scoop](https://scoop.sh) if you don't have it already:
 ```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 iwr -useb get.scoop.sh | iex
 ```
 
