@@ -23,6 +23,7 @@
             }
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("⠀⠀⣠⣤⣄⣾⣿⡷⣠⣴⣶⣿⣿⣿⣿⣿⣿⣷⣶⣤⡀\r\n⠀⣼⠋⠀⣾⡟⣳⣾⣿⡿⣿⣿⣿⠟⣿⣿⣿⣿⣿⣿⣿⣷⣄\r\n⠀⡇⠀⠀⠉⢱⣿⣿⡿⢰⣿⣿⠃⢰⣿⣿⣿⣿⣿⡟⢿⣿⣿⣷\r\n⠀⠁⠀⠀⠀⣿⣿⣿⠇⣼⣿⠇⡀⢸⡿⣿⣿⣿⡿⠁⢸⣿⣿⣿⡇\r\n⠀⠀⠀⠀⢰⢰⣿⡿⢀⣸⣿⣤⣿⡈⡇⢿⣿⡿⢁⡎⢸⣿⡇⣿⣿\r\n⠀⠀⠀⠀⣼⢸⣿⡇⣸⣤⣶⣶⣤⣽⣷⣼⡯⠐⠿⢇⣿⡿⠀⣿⣿\r\n⠀⠀⠀⠀⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣹⡦⠂⣿⣿\r\n⠀⠀⠀⠀⣿⡁⣿⡇⠻⣿⣿⣿⣧⣙⠛⣛⣿⣿⣿⣿⣿⠡⠂⣿⡏\r\n⠀⠀⠀⠀⣿⣧⣙⡇⠲⢀⣉⠛⠛⠿⠿⠿⣿⣿⡿⠿⠋⣴⢀⣿⠃\r\n⠀⠀⠀⣸⣿⡿⣿⡟⢠⣿⣿⢷⣦⢠⣤⣤⣤⠰⣶⣶⣿⠃⣼⣡\r\n⠀⠀⢠⣿⡿⢠⣿⢡⣿⣿⠃⣾⡇⣸⢸⣿⣿⡇⡿⢿⣿⣿⣿⣿");
+            Console.WriteLine("");
             Console.WriteLine(".M\"\"\"bgd    `7MM\"\"\"YMM     `7MM\"\"\"Mq.     `7MM\"\"\"Mq. \r\n,MI    \"Y      MM    `7       MM   `MM.      MM   `MM.\r\n`MMb.          MM   d         MM   ,M9       MM   ,M9 \r\n  `YMMNq.      MMmmMM         MMmmdM9        MMmmdM9  \r\n.     `MM      MM   Y  ,      MM  YM.        MM       \r\nMb     dM ,,   MM     ,M ,,   MM   `Mb. ,,   MM  ,,   \r\nP\"Ybmmd\"  db .JMMmmmmMMM db .JMML. .JMM.db .JMML.db   \r\n                                                      \r\n                                                      \r\n");
 
             var score = Rate();
